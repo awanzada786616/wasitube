@@ -1,1 +1,68 @@
-function _0x4b94(_0x5c78b9,_0x2c788){_0x5c78b9=_0x5c78b9-0x9f;const _0x1e76e5=_0x1e76();let _0x4b947e=_0x1e76e5[_0x5c78b9];if(_0x4b94['mkKDQS']===undefined){var _0x2d7fe8=function(_0x1fae82){const _0x5406f0='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x368771='',_0x3d17b8='';for(let _0x331dc8=0x0,_0x512e1e,_0x1910ea,_0x420861=0x0;_0x1910ea=_0x1fae82['charAt'](_0x420861++);~_0x1910ea&&(_0x512e1e=_0x331dc8%0x4?_0x512e1e*0x40+_0x1910ea:_0x1910ea,_0x331dc8++%0x4)?_0x368771+=String['fromCharCode'](0xff&_0x512e1e>>(-0x2*_0x331dc8&0x6)):0x0){_0x1910ea=_0x5406f0['indexOf'](_0x1910ea);}for(let _0x368b28=0x0,_0x3b02c5=_0x368771['length'];_0x368b28<_0x3b02c5;_0x368b28++){_0x3d17b8+='%'+('00'+_0x368771['charCodeAt'](_0x368b28)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x3d17b8);};_0x4b94['gdZtHE']=_0x2d7fe8,_0x4b94['qWywLR']={},_0x4b94['mkKDQS']=!![];}const _0x576d4f=_0x1e76e5[0x0],_0x10f551=_0x5c78b9+_0x576d4f,_0x164869=_0x4b94['qWywLR'][_0x10f551];return!_0x164869?(_0x4b947e=_0x4b94['gdZtHE'](_0x4b947e),_0x4b94['qWywLR'][_0x10f551]=_0x4b947e):_0x4b947e=_0x164869,_0x4b947e;}(function(_0xa51464,_0x29607f){const _0x19b86b=_0x4b94,_0x2a34ed=_0xa51464();while(!![]){try{const _0x45fa1c=parseInt(_0x19b86b(0x9f))/0x1*(-parseInt(_0x19b86b(0xb8))/0x2)+-parseInt(_0x19b86b(0xad))/0x3+parseInt(_0x19b86b(0xb7))/0x4*(parseInt(_0x19b86b(0xa1))/0x5)+-parseInt(_0x19b86b(0xb9))/0x6+parseInt(_0x19b86b(0xab))/0x7*(-parseInt(_0x19b86b(0xa0))/0x8)+parseInt(_0x19b86b(0xb6))/0x9*(parseInt(_0x19b86b(0xaa))/0xa)+parseInt(_0x19b86b(0xa9))/0xb*(parseInt(_0x19b86b(0xb5))/0xc);if(_0x45fa1c===_0x29607f)break;else _0x2a34ed['push'](_0x2a34ed['shift']());}catch(_0x456fd3){_0x2a34ed['push'](_0x2a34ed['shift']());}}}(_0x1e76,0xf113d),exports['handler']=async(_0x3532d6,_0x5e7bbe)=>{const _0x5eb9be=_0x4b94,_0x9d2724={};_0x9d2724[_0x5eb9be(0xa5)]=_0x5eb9be(0xb3),_0x9d2724[_0x5eb9be(0xb1)]=_0x5eb9be(0xb4),_0x9d2724[_0x5eb9be(0xb2)]=_0x5eb9be(0xa7),_0x9d2724[_0x5eb9be(0xac)]='https://pipedapi.mha.fi',_0x9d2724[_0x5eb9be(0xa6)]='API\x20Server\x20Busy';const _0x56cdf=_0x9d2724,_0x4dd9a8=_0x56cdf['GaoMp'],_0x49b837=_0x3532d6[_0x5eb9be(0xb0)][_0x5eb9be(0xaf)]||'';if(!_0x49b837[_0x5eb9be(0xa3)](_0x4dd9a8)){const _0xd53ec6={};return _0xd53ec6[_0x5eb9be(0xbb)]=_0x56cdf[_0x5eb9be(0xb1)],_0xd53ec6['message']='Contact\x20Developer\x20for\x20API\x20License:\x20+923342002756',{'statusCode':0x193,'body':JSON['stringify'](_0xd53ec6)};}const _0x383b63=_0x3532d6[_0x5eb9be(0xa8)]['q'],_0x27f490=[_0x56cdf[_0x5eb9be(0xb2)],_0x56cdf[_0x5eb9be(0xac)]];try{const _0x7fae8d=await fetch(_0x27f490[0x0]+_0x5eb9be(0xae)+encodeURIComponent(_0x383b63)+_0x5eb9be(0xa2)),_0x20fbe0=await _0x7fae8d['json'](),_0x4aa271={};return _0x4aa271['Access-Control-Allow-Origin']=_0x49b837,_0x4aa271[_0x5eb9be(0xa4)]=_0x5eb9be(0xba),{'statusCode':0xc8,'headers':_0x4aa271,'body':JSON[_0x5eb9be(0xbc)](_0x20fbe0)};}catch(_0x1c13f9){const _0x408de6={};return _0x408de6[_0x5eb9be(0xbb)]=_0x56cdf[_0x5eb9be(0xa6)],{'statusCode':0x1f4,'body':JSON[_0x5eb9be(0xbc)](_0x408de6)};}});function _0x1e76(){const _0x21a3e6=['yxbWBgLJyxrPB24VANnVBG','zxjYB3i','C3rYAw5NAwz5','mwD0q2Horq','otyXnZzHCM1Pz0W','nZC1nZvdC3rvsxa','jMzPBhrLCJ12AwrLB3m','Aw5JBhvKzxm','q29UDgvUDc1uExbL','r2fVtxa','vxP2Ahe','Ahr0Chm6lY9HCgKUCgLWzwqUChjPDMf0zs5JB2zMzwu','CxvLCNLtDhjPBMDqyxjHBwv0zxjZ','mtfctMfvEMO','mZeWvKfNu3zg','odyXuNzzvNbe','BhzZvha','nte1mtC3mvPhBffZCW','l3nLyxjJAd9Xpq','B3jPz2LU','AgvHzgvYCW','ywDLs0C','DMzSqvu','D2fZAxr1yMuUBMv0BgLMEs5HCha','vw5HDxrOB3jPEMvKiefJy2vZCYe','mtGYmZm3mZzMCw1ltfy','ntmYntu3u1zRBxvb','mZmYDxPHzuPH','odq3ntGYu0Lszvrd','mJa2mJC0DvDuAw12'];_0x1e76=function(){return _0x21a3e6;};return _0x1e76();}
+exports.handler = async (event, context) => {
+    // 1. Domain Locking Logic
+    const allowedDomain = "wasitube.netlify.app"; 
+    
+    // Headers fetch kar rahe hain
+    const origin = event.headers.origin || "";
+    const referer = event.headers.referer || "";
+    const host = event.headers.host || "";
+
+    // Check kar rahe hain ke request hamari apni domain se hi aa rahi hai
+    const isAuthorized = 
+        origin.includes(allowedDomain) || 
+        referer.includes(allowedDomain) || 
+        host.includes(allowedDomain);
+
+    if (!isAuthorized) {
+        return {
+            statusCode: 403,
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ 
+                error: "Unauthorized Access!", 
+                message: "Contact Developer for API License: +923342002756" 
+            })
+        };
+    }
+
+    // 2. Private API Logic
+    const query = event.queryStringParameters.q || "new songs";
+    const API_NODES = [
+        "https://api.piped.private.coffee",
+        "https://pipedapi.mha.fi",
+        "https://inv.nadeko.net"
+    ];
+
+    try {
+        // First node se try karte hain
+        const response = await fetch(`${API_NODES[0]}/search?q=${encodeURIComponent(query)}&filter=videos`);
+        
+        if (!response.ok) throw new Error("Node 1 failed");
+        
+        const data = await response.json();
+        
+        return {
+            statusCode: 200,
+            headers: {
+                "Access-Control-Allow-Origin": "*", // Backend security function handle kar raha hai
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify(data)
+        };
+    } catch (error) {
+        // Agar pehla node down ho to dusra try karein
+        try {
+            const response2 = await fetch(`${API_NODES[1]}/search?q=${encodeURIComponent(query)}&filter=videos`);
+            const data2 = await response2.json();
+            return {
+                statusCode: 200,
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify(data2)
+            };
+        } catch (e) {
+            return {
+                statusCode: 500,
+                body: JSON.stringify({ error: "All API Nodes Busy" })
+            };
+        }
+    }
+};
