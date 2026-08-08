@@ -1,1 +1,120 @@
-function _0x6505(_0x4c3728,_0xcc2941){_0x4c3728=_0x4c3728-0x157;const _0x60785e=_0x6078();let _0x650599=_0x60785e[_0x4c3728];if(_0x6505['bNjFFq']===undefined){var _0x21cd1d=function(_0x1334ce){const _0x5b0852='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x58ee05='',_0x20bcf6='';for(let _0x2a31cc=0x0,_0x57a39d,_0x500739,_0x2b4617=0x0;_0x500739=_0x1334ce['charAt'](_0x2b4617++);~_0x500739&&(_0x57a39d=_0x2a31cc%0x4?_0x57a39d*0x40+_0x500739:_0x500739,_0x2a31cc++%0x4)?_0x58ee05+=String['fromCharCode'](0xff&_0x57a39d>>(-0x2*_0x2a31cc&0x6)):0x0){_0x500739=_0x5b0852['indexOf'](_0x500739);}for(let _0x491653=0x0,_0x2b6351=_0x58ee05['length'];_0x491653<_0x2b6351;_0x491653++){_0x20bcf6+='%'+('00'+_0x58ee05['charCodeAt'](_0x491653)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x20bcf6);};_0x6505['cnuPoj']=_0x21cd1d,_0x6505['UGFbVf']={},_0x6505['bNjFFq']=!![];}const _0x599e6d=_0x60785e[0x0],_0xb28bb1=_0x4c3728+_0x599e6d,_0x320915=_0x6505['UGFbVf'][_0xb28bb1];return!_0x320915?(_0x650599=_0x6505['cnuPoj'](_0x650599),_0x6505['UGFbVf'][_0xb28bb1]=_0x650599):_0x650599=_0x320915,_0x650599;}(function(_0x5ed314,_0xcf8532){const _0x5ed5db=_0x6505,_0xb8e71d=_0x5ed314();while(!![]){try{const _0xcb6644=-parseInt(_0x5ed5db(0x162))/0x1+-parseInt(_0x5ed5db(0x16f))/0x2+parseInt(_0x5ed5db(0x16d))/0x3+-parseInt(_0x5ed5db(0x16e))/0x4*(-parseInt(_0x5ed5db(0x160))/0x5)+parseInt(_0x5ed5db(0x16c))/0x6*(parseInt(_0x5ed5db(0x157))/0x7)+-parseInt(_0x5ed5db(0x15d))/0x8*(parseInt(_0x5ed5db(0x15b))/0x9)+-parseInt(_0x5ed5db(0x15c))/0xa*(-parseInt(_0x5ed5db(0x176))/0xb);if(_0xcb6644===_0xcf8532)break;else _0xb8e71d['push'](_0xb8e71d['shift']());}catch(_0x53db7e){_0xb8e71d['push'](_0xb8e71d['shift']());}}}(_0x6078,0xd2cb8));async function loadData(_0x170ffb){const _0x393ebb=_0x6505,_0x4cc5fd={'YOmGK':_0x393ebb(0x173),'xqZOL':_0x393ebb(0x172),'qXxuM':function(_0x130510,_0x86d756){return _0x130510(_0x86d756);}},_0x2b2ec1=document[_0x393ebb(0x158)](_0x4cc5fd[_0x393ebb(0x167)]);_0x2b2ec1[_0x393ebb(0x169)]=_0x4cc5fd[_0x393ebb(0x161)];try{const _0xcc4d3f=await fetch(_0x393ebb(0x174)+_0x4cc5fd[_0x393ebb(0x15e)](encodeURIComponent,_0x170ffb)),_0x562b51=await _0xcc4d3f[_0x393ebb(0x168)]();if(_0x562b51[_0x393ebb(0x165)]){_0x2b2ec1[_0x393ebb(0x169)]=_0x393ebb(0x164)+_0x562b51[_0x393ebb(0x15a)]+_0x393ebb(0x159);return;}_0x2b2ec1[_0x393ebb(0x169)]='',_0x562b51['items']['forEach'](_0x12d53a=>{const _0x1504bd=_0x393ebb,_0x5eef1e=_0x12d53a['url'][_0x1504bd(0x163)]('v=')[0x1]||_0x12d53a[_0x1504bd(0x175)];_0x2b2ec1['innerHTML']+=_0x1504bd(0x171)+_0x5eef1e+_0x1504bd(0x166)+_0x12d53a['title'][_0x1504bd(0x15f)](/'/g,'')+'\x27)\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<img\x20src=\x22https://i.ytimg.com/vi/'+_0x5eef1e+_0x1504bd(0x170)+_0x12d53a[_0x1504bd(0x16a)]+_0x1504bd(0x16b);});}catch(_0x192e1c){_0x2b2ec1['innerHTML']='<p>Connection\x20Error.\x20Try\x20again.</p>';}}function _0x6078(){const _0x45ee3e=['mZGZndrJAe9ky0S','CvH4Du0','CMvWBgfJzq','ndvjqxrAyKi','EhfAt0W','mtq2ndiXn25dtuTuwa','C3bSAxq','pgrPDIbZDhLSzt0Iy29SB3i6CMvKoYbWywrKAw5NoJiWChG7iJ4','zxjYB3i','jYWGjW','wu9Tr0S','ANnVBG','Aw5Uzxjive1m','DgL0Bgu','pc9KAxy+cIaGicaGicaGicaGicaGica8l2rPDJ4','otKXnJuWtgrMD3LV','mJiWnJK3n0DJExfuqW','ntyZmZjrDvPlwvm','mtC3ntu4meHWy2HKvW','l21XzgvMyxvSDc5QCgCIpGOGicaGicaGicaGicaGicaGicaGidXKAxyGy2XHC3m9iNyTDgL0BguIpG','cIaGicaGicaGicaGicaGica8zgL2ignSyxnZpsj2lwnHCMqIig9Uy2XPy2S9iNbSyxLwAwrLBYGN','pha+tg9HzgLUzYbtzwn1CMuGu3rYzwfTlI4Upc9WpG','DI1NCMLK','lY5UzxrSAwz5l2z1BMn0Aw9UCY9HCgK/Ct0','DMLKzw9jza','mJqZnZe5m1bVwejltW','nJnhru1kr1y','z2v0rwXLBwvUDej5swq','pc9KAxy+','BwvZC2fNzq','mti4n1PzAePzqq','nZbcuMHNr2K'];_0x6078=function(){return _0x45ee3e;};return _0x6078();}
+(function() {
+    "use strict";
+
+    // 1. CSS Injection (Security: UI design hidden in JS)
+    const style = document.createElement('style');
+    style.innerHTML = `
+        :root { --primary: #ff0000; --gold: #ffcc00; --bg: #000; --card: #121212; }
+        body { background: var(--bg); color: #fff; font-family: 'Poppins', sans-serif; margin: 0; padding: 0; overflow-x: hidden; }
+        
+        #splash-screen { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: radial-gradient(circle, #1a1a1a, #000); z-index: 9999; display: flex; flex-direction: column; align-items: center; justify-content: center; perspective: 1000px; transition: opacity 0.8s ease; }
+        .logo-3d { animation: rot 3s infinite linear; transform-style: preserve-3d; font-size: 80px; color: var(--gold); filter: drop-shadow(0 0 20px rgba(255,204,0,0.5)); }
+        @keyframes rot { from { transform: rotateY(0deg); } to { transform: rotateY(360deg); } }
+        
+        header { background: rgba(0,0,0,0.95); padding: 12px 5%; display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid #222; position: sticky; top: 0; z-index: 1000; backdrop-filter: blur(10px); }
+        .logo { display: flex; align-items: center; gap: 10px; font-weight: 900; font-family: 'Montserrat', sans-serif; cursor: pointer; font-size: 1.4rem; }
+        
+        .search-bar { background: #111; border: 1px solid #333; border-radius: 25px; padding: 8px 15px; display: flex; align-items: center; flex: 1; margin: 0 20px; max-width: 500px; }
+        .search-bar input { background: transparent; border: none; color: #fff; width: 100%; outline: none; font-size: 14px; }
+        
+        .v-container { width: 100%; aspect-ratio: 16/9; background: #000; border-bottom: 1px solid #222; }
+        iframe { width: 100%; height: 100%; border: none; }
+        
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 15px; padding: 20px; }
+        .v-card { background: var(--card); border-radius: 12px; overflow: hidden; cursor: pointer; transition: 0.3s; border: 1px solid #222; }
+        .v-card:hover { transform: translateY(-5px); border-color: var(--primary); }
+        .v-card img { width: 100%; aspect-ratio: 16/9; object-fit: cover; }
+        .v-title { padding: 10px; font-size: 13px; font-weight: 600; height: 40px; overflow: hidden; line-height: 1.3; }
+        
+        .btn-wa { background: #25d366; color: #fff; padding: 12px; text-align: center; display: block; text-decoration: none; border-radius: 8px; margin: 20px; font-weight: bold; font-size: 14px; }
+        
+        .loader { border: 3px solid #222; border-top: 3px solid var(--primary); border-radius: 50%; width: 30px; height: 30px; animation: spin 1s linear infinite; margin: 40px auto; }
+        @keyframes spin { to { transform: rotate(360deg); } }
+
+        @media (max-width: 480px) { .grid { grid-template-columns: 1fr 1fr; gap: 10px; padding: 10px; } .logo span { display: none; } }
+    `;
+    document.head.appendChild(style);
+
+    // 2. HTML Injection
+    document.body.innerHTML = `
+        <div id="splash-screen">
+            <div class="logo-3d"><i class="fas fa-crown"></i></div>
+            <h1 style="margin-top:25px; letter-spacing:5px; font-family:'Montserrat'">WASI TUBE</h1>
+        </div>
+        <header>
+            <div class="logo" onclick="location.href='/'"><i class="fas fa-crown" style="color:var(--gold)"></i> <span>WASI TUBE</span></div>
+            <div class="search-bar"><input type="text" id="q-in" placeholder="Search premium content..."><i class="fas fa-search" style="color:#555"></i></div>
+        </header>
+        <main>
+            <div id="p-box" style="display:none">
+                <div class="v-container"><iframe id="ifr" src="" allowfullscreen allow="autoplay"></iframe></div>
+                <div style="padding:15px">
+                    <h2 id="v-title" style="margin:0; font-size:1.2rem;"></h2>
+                    <a href="https://wa.me/923342002756" class="btn-wa"><i class="fab fa-whatsapp"></i> CONTACT DEVELOPER</a>
+                </div>
+            </div>
+            <div class="grid" id="v-grid"></div>
+        </main>
+    `;
+
+    // 3. API Logic
+    window.playVid = function(id, title) {
+        document.getElementById('p-box').style.display = 'block';
+        document.getElementById('ifr').src = `https://www.youtube.com/embed/${id}?autoplay=1`;
+        document.getElementById('v-title').innerText = title;
+        window.history.pushState({}, '', '/' + title.toLowerCase().replace(/\s+/g, '-'));
+        window.scrollTo({top: 0, behavior: 'smooth'});
+    };
+
+    async function load(q) {
+        const g = document.getElementById('v-grid');
+        g.innerHTML = '<div class="loader"></div>';
+
+        try {
+            // Relative path for Netlify function
+            const r = await fetch(`/.netlify/functions/api?q=${encodeURIComponent(q)}`);
+            const d = await r.json();
+
+            if (d.error) {
+                g.innerHTML = `<p style="color:red; text-align:center; padding:20px;">${d.message}</p>`;
+                return;
+            }
+
+            g.innerHTML = '';
+            d.items.forEach(v => {
+                const id = v.url.split('v=')[1] || v.videoId;
+                if(!id) return;
+                const card = document.createElement('div');
+                card.className = 'v-card';
+                card.onclick = () => playVid(id, v.title);
+                card.innerHTML = `
+                    <img src="https://i.ytimg.com/vi/${id}/mqdefault.jpg" alt="thumb">
+                    <div class="v-title">${v.title}</div>
+                `;
+                g.appendChild(card);
+            });
+        } catch(e) {
+            g.innerHTML = '<p style="text-align:center">Server busy. Please refresh.</p>';
+        }
+    }
+
+    // Input Events
+    document.getElementById('q-in').onkeypress = (e) => {
+        if(e.key === 'Enter') {
+            load(e.target.value);
+            window.history.pushState({}, '', '/');
+        }
+    };
+
+    // Splash Timeout
+    setTimeout(() => {
+        const ss = document.getElementById('splash-screen');
+        ss.style.opacity = '0';
+        setTimeout(() => ss.style.display = 'none', 800);
+    }, 2500);
+
+    // Initial Load
+    const p = window.location.pathname.replace(/\//g, '').replace(/-/g, ' ');
+    load(p || "new bollywood songs 2024");
+
+})();
