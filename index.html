@@ -3,46 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    
-    <!-- Title: Splash screen ke baad ye JS se change ho jayega -->
-    <title>WasiTube | Premium Streaming</title>
-
-    <!-- Meta Tags for SEO & Look -->
-    <meta name="description" content="WasiTube - High Quality Premium Streaming Platform">
-    <meta name="theme-color" content="#000000">
-
-    <!-- Fonts & Icons (Zaroori Libraries) -->
+    <title>WasiTube Premium</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;800&family=Montserrat:wght@900&display=swap" rel="stylesheet">
-
-    <!-- WASITUBE CORE: Saari CSS aur Logic is file mein hai -->
-    <!-- Note: Deployment se pehle wasitube-core.js ko obfuscate lazmi karein -->
-    <script src="/wasitube-core.js" defer></script>
-
-    <style>
-        /* Initial styling taake jab tak JS load ho, screen black rahe */
-        body, html {
-            margin: 0;
-            padding: 0;
-            background-color: #000;
-            width: 100%;
-            height: 100%;
-            overflow: hidden; /* JS load hone tak scroll band */
-        }
-    </style>
+    <script src="/wasitube-core.js"></script>
 </head>
-<body>
-
-    <!-- Ye div khali hai kyunki wasitube-core.js isme 
-         Splash Screen, Header, Player aur Grid inject karega -->
-    <div id="app-root"></div>
-
-    <noscript>
-        <div style="color: white; text-align: center; padding: 50px;">
-            Please enable JavaScript to use WasiTube.
-            <br>Contact Developer: +923342002756
-        </div>
-    </noscript>
-
+<body style="background:#000;">
 </body>
 </html>
