@@ -4,7 +4,15 @@
 [functions]
   node_bundler = "esbuild"
 
+# Pehle API ko handle karo
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/api"
+  status = 200
+
+# Baaki sab index.html par (lekin files ko mat chhero)
 [[redirects]]
   from = "/*"
-  status = 200
   to = "/index.html"
+  status = 200
+  force = false
