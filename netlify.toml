@@ -1,2 +1,4 @@
-[functions]
-  node_bundler = "esbuild"
+[[redirects]]
+  from = "/*"
+  status = 200
+  to = "/index.html"
